@@ -1,5 +1,9 @@
+import Navbar from '../components/Navbar';
+import '../scss/style.scss';
+
 const About = () => (
   <section>
+    <Navbar />
     <h1>testing about page</h1>
     <p>
       <span>
